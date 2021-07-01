@@ -1,0 +1,54 @@
+
+  .passangers{
+    max-width: 500px;
+    height: 500px;
+    background: url('https://images.unsplash.com/photo-1562385982-6687ce0cd73e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHBlb3BsZSUyMGF0JTIwc3RhdGlvbnxlbnwwfDF8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    margin: 50px auto;
+  }
+  .container{
+    background: rgba(165,128,124,0.5);
+    max-width: 500px;
+    height: 500px;
+    text-align: center;
+    color: white;
+    font-family: Arial,Helvetica, sans-serif;
+    position: relative;
+  }
+  .container h1{
+    font-size: 45px;
+    padding-top: 30px;
+  }
+  p.count-el{
+    font-size:40px;
+  }
+  .container button{
+    display: block;
+    width: 30%;
+    position: relative;
+    top: 20px;
+    margin: 5px auto;
+    font-size: 30px;
+    color: white;
+  }
+  .container .count{
+    background: MediumSeaGreen;
+    border: 0px;
+    border-radius: 10px;
+  }
+  .container .save{
+    background: SlateBlue;
+    border: 0px;
+    border-radius: 10px;
+  }
+  .container .reset{
+    background: crimson;
+    border: 0px;
+    border-radius: 10px;
+  }
+  p.history{
+    position: absolute;
+    top: 320px;
+    left: 60px;
+    font-size: 30px;
+  }
