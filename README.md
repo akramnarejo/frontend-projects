@@ -1,2 +1,2 @@
-# scrimba-frontend-projects
-Scrimba projects in The Frontend Developer career path
+# Scrimba frontend projects
+Scrimba The Frontend Developer career path projects
