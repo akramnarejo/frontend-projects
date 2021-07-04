@@ -1,0 +1,33 @@
+body{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/3/33/Blackjack21.jpg');
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+  }
+  .container{
+      background: rgba(0, 80, 0,0.8);
+      backdrop-filter: blur(5px);
+      border-radius: 5px;
+  }
+  h1{
+    color: goldenrod;
+  }
+  .message-el{
+    font-style: italic;
+  }
+  button{
+    color: #016f32;
+      width: 250px;
+      background: goldenrod;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-weight: bold;
+      font-size: 30px;
+      border: none;
+      border-radius: 2px;
+      margin-bottom: 2px;
+      margin-top: 2px;
+  }
