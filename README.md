@@ -6,3 +6,4 @@ Projects from basic to advance level developed in html, css, javascript and reac
 3. [url keeper](https://github.com/akramnarejo/url-keeper)
 4. [My Emojis](https://github.com/akramnarejo/frontend-projects/tree/master/my-emojis)
 5. [Roll Dice Game](https://github.com/akramnarejo/roll-dice)
+6. [Simple Layout ](https://github.com/akramnarejo/frontend-projects/tree/master/simple_layout)
