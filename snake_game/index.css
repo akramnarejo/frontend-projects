@@ -1,0 +1,59 @@
+
+body{
+    margin: 10;
+    padding: 10px 20px;
+}
+h1, .btn, h2{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.btn{
+    padding: 5px 20px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 48px;
+}
+
+.grid{
+    max-width: 300px;
+    height: 300px;
+    border: 2px solid;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fail{
+    border: 2px solid crimson;
+    box-shadow: 0px 0px 5px 0px crimson;
+}
+.square{
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+}
+
+.snake{
+    background-color:green;
+    border-radius: 40%;
+}
+
+.apple{
+    font-size: 18px;
+}
+.btn{
+    cursor: pointer;
+}
+.contact{
+    margin-top: 20px;
+    display: flex;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: royalblue;
+}
