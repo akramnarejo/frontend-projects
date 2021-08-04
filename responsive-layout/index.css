@@ -22,13 +22,13 @@
   .columns{
     display: flex;
     justify-content: space-between;
-    background: pink;
+    background: rgb(220,227,255);
     margin: 5px 0;
     padding: 10px;
   }
   
   .col-bg{
-    background-color: maroon;
+    background: linear-gradient(rgb(250,150,150), rgb(150,170,255));
     color: white;
     padding: 10px;
     width: 25%;
@@ -60,4 +60,16 @@
     .col-3{
       max-width: 100%;
     }
+  }
+
+  .author{
+      text-align: center;
+  }
+  .author a{
+      text-decoration: none;
+      color: black
+  }
+  .author a:hover{
+      text-decoration: underline;
+      color: royalblue;
   }
