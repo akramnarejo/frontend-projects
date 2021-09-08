@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+  }
+  body{
+    width: 25vw;
+    height: 50vh;
+    margin: 10em auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .random-dog{
+    width: 100%;
+    height: 100%;
+    border: 1px solid;
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .random-dog img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+  button{
+    width: 100%;
+    font-size: 1.5rem;
+    padding: .3em;
+    border: 1px solid;
+    border-radius: 5px;
+    background: lightgray;
+    cursor: pointer;
+    background: beige;
+  }
+
+footer{
+    margin-top: 5em;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}

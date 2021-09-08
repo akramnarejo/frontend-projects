@@ -1,0 +1,88 @@
+body{
+    background: url('https://www.teahub.io/photos/full/274-2742277_hd-wallpaper-dice-data-src-top-dice-wallpaper.jpg') no-repeat center center;
+    font-family: sans-serif;
+  }
+  
+  .container{
+    max-width: 700px;
+    height: 650px;
+    background: rgba(255,255,255,0.9);
+    margin: 90px auto;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .container h1{
+    font-size: 48px;
+    margin-top: 0;
+    padding-top: 100px;
+  }
+  
+  .roll-dice{
+    max-width: 500px;
+    height: 350px;
+    margin: 0 auto;
+  }
+  .score-counter{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 30px;
+    box-sizing: border-box;
+  }
+  .score-counter .player{
+    font-size: 32px;
+    font-weight: 900;
+  }
+  .dice-output{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+  }
+  .dice-output .dice{
+    border: none;
+    padding: 15px 30px;
+    box-sizing: border-box;
+    font-size: 60px;
+    font-weight: 400;
+    border-radius: 5px;
+    background: rgb(50,50,50);
+    color: #F0F0F0;
+  }
+  .dice-output .dice.output1{
+    margin-left: 50px;
+  }
+  .dice-output .dice.output2{
+    margin-right: 50px;
+  }
+  .glow{
+    box-shadow: rgb(250,50,50) 0px 0px 20px 2px;
+  }
+  
+  .play-button{
+    width: 50%;
+    background: rgb(50,50,50);
+    padding: 10px 30px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 28px;
+    margin-top: 70px;
+  }
+  footer{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+  }
+  footer a{
+    color: white;
+    text-decoration: none;
+  }
+  footer a:hover{
+    text-decoration: underline;
+  }
+  footer img{
+    position: absolute;
+    top: -2px;
+  }
+  
