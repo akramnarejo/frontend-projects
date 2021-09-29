@@ -11,3 +11,6 @@ Projects from basic to advance level developed in html, css, javascript and reac
 8. [Snake Game](https://github.com/akramnarejo/frontend-projects/tree/master/snake_game)
 9. [Random Dog Image Loader](https://github.com/akramnarejo/frontend-projects/tree/master/random-dog)
 10. [Momentum](https://github.com/akramnarejo/momentum)
+11. [New Year Eve](https://akramnarejo.github.io/new-year-eve/)
+
+
