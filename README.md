@@ -19,3 +19,4 @@ Projects from basic to advance level developed in html, css, javascript and reac
 1. [Word Counter App](https://github.com/akramnarejo/WordCounter)
 2. [Speed Typing App](https://github.com/akramnarejo/SpeedTyping)
 3. [Xcare Services App](https://github.com/akramnarejo/xcare-services)
+4. [SHOPIC app to buy pics](https://github.com/akramnarejo/shopic)
